@@ -1,0 +1,35 @@
+body {
+    margin:0;
+    background-image: url("images/back.jpg");position:center;background-repeat: no-repeat;background-size: cover;
+
+
+}
+.header {
+    background-color: #f1f1f1;
+    padding: 19px;
+    text-align: center;
+    color: black;
+   font: 300 30px/0.1 'Pacifico', Helvetica, sans-serif;
+}
+.topnavbar {
+    overflow: hidden;
+    background-color: #121212;
+}
+.topnavbar a{
+float:left;
+display: block;
+color:white;
+text-align: center;
+padding: 20px 17px;
+text-decoration: none;
+border-right: 1px solid white;
+
+}
+.topnavbar a:hover {
+    background-color: #f1f1f1;
+    color: black;
+}
+.quote{
+    font: 300 60px/01 'Pacifico', Helvetica, sans-serif;
+    color: white;
+}
